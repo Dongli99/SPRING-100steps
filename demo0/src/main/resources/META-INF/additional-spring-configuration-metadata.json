@@ -1,0 +1,19 @@
+{
+  "properties": [
+    {
+      "name": "demo-service.key",
+      "type": "java.lang.String",
+      "description": "A description for 'demo-service.key'"
+    },
+    {
+      "name": "demo-service.username",
+      "type": "java.lang.String",
+      "description": "A description for 'demo-service.username'"
+    },
+    {
+      "name": "demo-service.url",
+      "type": "java.lang.String",
+      "description": "A description for 'demo-service.userName'"
+    }
+  ]
+}
